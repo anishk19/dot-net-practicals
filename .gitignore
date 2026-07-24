@@ -1,0 +1,14 @@
+# Build outputs
+*.exe
+*.dll
+*.pdb
+[Bb]in/
+[Oo]bj/
+
+# IDE & Tooling folders
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
